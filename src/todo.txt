@@ -1,0 +1,18 @@
+-solo mostrar numeros en el display
+    20-04-2024
+    seleccionar solo numeros
+    <button data-rol="numberbutton" class="item item-grey" id="6">6</button>
+    document.querySelectorAll('button[data-rol="numberbutton"]')
+-quitar el cero
+  casos:
+  -cuando le doy click al 0 varias veces
+  -cuando tengo un 0 y doy click a otro cualquier numero diferente el 0 desaparezca
+-hacer la funcion de borrar
+    - saber donde esta guardado los valores del display
+    - obtener los valores
+    - borrar los valores 
+    - mostrar un 0 
+-hacer la suma
+-hacer la resta
+-mostar el resultado
+-mejorar diseño
